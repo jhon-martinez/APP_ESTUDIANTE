@@ -1,0 +1,13 @@
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\bin\Debug\netcoreapp3.1\App_EstudianteSena.exe
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\bin\Debug\netcoreapp3.1\App_EstudianteSena.deps.json
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\bin\Debug\netcoreapp3.1\App_EstudianteSena.runtimeconfig.json
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\bin\Debug\netcoreapp3.1\App_EstudianteSena.runtimeconfig.dev.json
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\bin\Debug\netcoreapp3.1\App_EstudianteSena.dll
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\bin\Debug\netcoreapp3.1\App_EstudianteSena.pdb
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.csprojAssemblyReference.cache
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.AssemblyInfoInputs.cache
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.AssemblyInfo.cs
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.csproj.CoreCompileInputs.cache
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.dll
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.pdb
+C:\Users\jhon\source\repos\App_EstudianteSena\App_EstudianteSena\obj\Debug\netcoreapp3.1\App_EstudianteSena.genruntimeconfig.cache
